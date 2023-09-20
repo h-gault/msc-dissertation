@@ -5,7 +5,7 @@ The file stochastic-program.py outputs the main result of the project.
 
 The resultant project output is:
 
-For the deterministic version, see 
+For the deterministic version, see deterministic-program.py
 
 Extras:
 The random iterative approach is detailed in 
